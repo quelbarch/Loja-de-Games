@@ -1,7 +1,7 @@
-# 🎮 Loja de Games - API RESTful
+# 🎮 Loja de Games - API REST
 
 <p align="center">
-  <b>Desenvolvido por Raquel Barch 👩‍💻</b><br>
+  <b>Desenvolvido por Raquel Barcheta 👩‍💻</b><br>
   <i>Projeto prático de Backend desenvolvido durante o bootcamp da Generation Brasil.</i>
 </p>
 
